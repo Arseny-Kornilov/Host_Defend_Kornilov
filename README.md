@@ -17,5 +17,5 @@
 Задание 2. PostgreSQL
 2.1. С помощью официальной документации приведите пример команды резервирования данных и восстановления БД (pgdump/pgrestore).
 #### ОТВЕТ:  pgdump:
-pg_dump -U username -d database_name -f full_backup.dump - полное резервное копирование
-pg_restore -U username -d database_name full_backup.dump - полное восстановление
+##### pg_dump -U username -d database_name -f full_backup.dump - полное резервное копирование
+##### pg_restore -U username -d database_name full_backup.dump - полное восстановление
