@@ -12,5 +12,6 @@
 Установите поддержку LUKS.
 Создайте небольшой раздел, например, 100 Мб.
 Зашифруйте созданный раздел с помощью LUKS.
+<img width="498" height="169" alt="image" src="https://github.com/user-attachments/assets/f6dbbba5-854d-489a-9ed8-67a01ad904ca" />
 <img width="641" height="815" alt="image" src="https://github.com/user-attachments/assets/5ee4278c-d857-4ebc-8144-30e804c32b9b" />
 <img width="785" height="529" alt="image" src="https://github.com/user-attachments/assets/82b2466d-3046-4a4a-b168-53106df91120" />
